@@ -1,1 +1,1 @@
-# Addovedi2024
+Welcome to the official repository for Addovedi, the annual Techfest of NIT Arunachal Pradesh. This website serves as the hub for all information, updates, events, and activities related to the techfest. Get ready for an exciting lineup of workshops, competitions, guest lectures, and more!
